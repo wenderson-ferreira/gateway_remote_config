@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE2B652D",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 9.84862383,
+    "ref_longitude": 78.34395142,
+    "ref_altitude": 98,
+    "contact_email": "psyece20@gmail.com",
+    "description": "PSY College Gateway"
+  }
+}
+

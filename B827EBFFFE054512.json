@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE054512",
+    "servers": [
+      {
+        "server_address": "212.40.22.34",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 46.525104,
+     "ref_longitude": 6.538975,
+     "ref_altitude": 399,
+     "contact_email": "dylan.collaud@gmail.com",
+     "description": "gnz @ Denges"
+  }
+}
